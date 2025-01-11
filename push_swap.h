@@ -58,7 +58,6 @@ void	sortall(t_list **a, t_list **b);
 //actions:
 void	swap(t_list *stack);
 void	push(t_list **stack1, t_list **stack2);
-void	del(void *content);
 void	rotate(t_list *lst);
 void	rrotate(t_list *lst);
 
